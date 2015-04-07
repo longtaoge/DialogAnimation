@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AppData\DialogAnimation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\AppData\DialogAnimation\app\build\intermediates\pre-dexed\debug\classes-c7af979d4feac7c5737b57f1b1cabf984d6b0899.jar" />
+    </item>
+    <item
+        jar="E:\Android_IDE\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\AppData\DialogAnimation\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-ef6a00e005ac5781692eb5593db5d3be2ba42cdd.jar" />
+    </item>
+    <item
+        jar="F:\AppData\DialogAnimation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\AppData\DialogAnimation\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3eb6778bf7e02bdcfa2ffa632862e5e9b816534c.jar" />
+    </item>
+
+</items>
